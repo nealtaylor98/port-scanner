@@ -18,4 +18,5 @@ Options:
 
 Example Usage:
 port_scanner 127.0.0.1 0 25565
+
 ![image](https://github.com/user-attachments/assets/e4a126c1-945c-4e37-b9dd-03f6302cd3ea)
